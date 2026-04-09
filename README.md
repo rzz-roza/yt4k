@@ -1,5 +1,5 @@
 # 📥 YouTube 4K Downloader — Termux
-> Powered by **yt-dlp** | Python 3 | Versi 2.1
+> Powered by **rzz-roza** | Python 3 | Versi 2.1
 
 Script Python untuk mendownload video YouTube langsung dari Termux di Android. Mendukung video tunggal, Shorts, dan Playlist dengan berbagai pilihan kualitas hingga 4K.
 
