@@ -24,15 +24,15 @@ Script Python untuk mendownload video YouTube langsung dari Termux di Android. M
 termux-setup-storage
 ```
 
-### Langkah 2 — Salin script ke Termux
-Letakkan file `yt4k.py` di folder mana saja, misalnya:
+### Langkah 2 
+lakukan penginstallan python :
 ```
-/storage/emulated/0/Termux/yt4k.py
+pkg install python git
 ```
 
-### Langkah 3 — Masuk ke folder script
+### Langkah 3 
 ```bash
-cd /storage/emulated/0/Termux/
+git clone https://github.com/rzz-roza/yt4k
 ```
 
 ### Langkah 4 — Jalankan
